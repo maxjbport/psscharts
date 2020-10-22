@@ -3,8 +3,8 @@ Simple and easy to use charts and tool. Made using [Qt Widgets](https://doc.qt.i
 
 To see a chart in action, try out our example chart tool. The example charts can be built using chart_examples.pro.
 ![LineChart](chartexamples/linechart_example.gif)
-![BarChart](chartexamples/PI Chart.gif)
-
+![PiChart](chartexamples/PssBarChartDemo.gif)
+![BarChart](chartexamples/pi_chart.gif)
 To use our charts in your project, add the files from the `src/` directory to your project.
 
 ### Quick example:
