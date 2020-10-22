@@ -3,7 +3,9 @@ Simple and easy to use charts and tool. Made using [Qt Widgets](https://doc.qt.i
 
 To see a chart in action, try out our example chart tool. The example charts can be built using chart_examples.pro.
 ![LineChart](chartexamples/linechart_example.gif)
+Candlestick, BarCharts and Line charts are avalible for bivariate data
 ![PiChart](chartexamples/PssBarChartDemo.gif)
+PI charts can also be used for showing precentages
 ![BarChart](chartexamples/pi_chart.gif)
 To use our charts in your project, add the files from the `src/` directory to your project.
 
